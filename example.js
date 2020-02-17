@@ -18,3 +18,4 @@ else{
 console.log("how many candy bars should I eat for dinner and lunch?")
 console.log(num1)
 console.log(num2)
+console.log(num1*num2)
